@@ -10,3 +10,5 @@ Exploratory Data Analysis (EDA)
 Visualization
 Machine Learning
 
+CONCLUSION
+After trying few models we conclude that GradientBoosingRegressor outperformed other models with evaluation metrics as- Mean Absolute Error (MAE): 159292.7830515388 Mean Squared Error (MSE): 179283892377.9353 R-squared (R2): 0.8668297341589066
