@@ -3,6 +3,10 @@
 Problem Statement: The primary objective of is project is to create a data science solution for predicting used car prices accurately by analyzing a diverse dataset including car model, no. of owners, age, mileage, fuel type, kilometers driven, features and location. The aim is to build a machine learning model that offers users to find current valuations for used cars.
 
 
+
+https://github.com/shivam109/Car-Dekho-Price-Prediction/assets/76094061/1f254a67-a895-454a-8b69-e0411e0ec1b2
+
+
 Technologies Used: 
 Python
 Streamlit
