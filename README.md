@@ -10,5 +10,9 @@ Exploratory Data Analysis (EDA)
 Visualization
 Machine Learning
 
+car_dekho_dataset.ipynb ----> This file contains the process of cleaning the unstructured excel datasets and obtaining important features. After combining these excel datasets and creating one comnined_dataset. After performing various operations, we obtained features from those datasets.
+
+combined_data.csv ----> This file needs to be preprocessed and visualized before training the model.
+
 CONCLUSION
 After trying few models we conclude that GradientBoosingRegressor outperformed other models with evaluation metrics as- Mean Absolute Error (MAE): 159292.7830515388 Mean Squared Error (MSE): 179283892377.9353 R-squared (R2): 0.8668297341589066
